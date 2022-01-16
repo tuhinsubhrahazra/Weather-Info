@@ -1,0 +1,40 @@
+body{
+  text-align: center;
+  background-image: url("https://images.unsplash.com/photo-1536514498073-50e69d39c6cf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1471&q=80");
+}
+
+h1{
+  color: #072227;
+  font-size: 40px;
+}
+
+.loc{
+  margin-top: 180px;
+  font-family: sans-serif;
+}
+
+
+.location-search{
+  margin-top: 30px;
+  width: 500px;
+  height: 40px;
+  border-radius: 20px;
+  border-radius: 20px;
+  background-image: url('searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+  border-width: 0;
+  box-shadow: 0px 0px 25px lightBlue;
+}
+
+.enter-btn{
+  width: 100px;
+  height: 30px;
+  margin-top: 30px;
+  border-radius: 15px;
+  background-color: white;
+  font-family: sans-serif;
+  border-width: 0px;
+  box-shadow: 0px 0px 25px lightBlue;
+}
